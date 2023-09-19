@@ -7,6 +7,9 @@
 5. Download folder assets: 
    https://bestfile.io/vkV6QlBjyGq6IGU/file
    ekstrak dan copy ke root direktori aplikasi
+
+Aplikasi untuk menggenerate script bisa diakses di : http://localhost/[nama_folder_project]/auto
+
 6. Buat folder db, didalamnya buat file dgn nama: database.php
    generate script lewat menu : DB Connection
 7. Buat folder Models
